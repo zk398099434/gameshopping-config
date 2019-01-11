@@ -2,7 +2,7 @@ server:
   port: 9527
 spring:
   application:
-    name: gameshopping-zuul-gateway-dev
+    name: gameshopping-zuul-gateway-dev1
 eureka:
   client:
     service-url:
